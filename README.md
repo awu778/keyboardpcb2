@@ -10,3 +10,5 @@ PCB2 is a tenkeyless keyboard.
 - Protection hardware: USB data line and power rail ESD suppressing, USB power overvoltage protection, Overcurrent protection
 ![alt text](https://github.com/awu778/keyboardpcb2/blob/main/pcb2front.PNG)
 ![alt text](https://github.com/awu778/keyboardpcb2/blob/main/pcb2back.PNG)
+![alt text](https://github.com/awu778/keyboardpcb2/blob/main/DSCF8705.jpg)
+![alt text](https://github.com/awu778/keyboardpcb2/blob/main/DSCF8704.jpg)
