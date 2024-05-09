@@ -1,5 +1,5 @@
 # Introduction: 
-PCB1 is a tenkeyless keyboard.
+PCB2 is a tenkeyless keyboard.
 
 # Technical information:
 - Layout size: tenkeyless
