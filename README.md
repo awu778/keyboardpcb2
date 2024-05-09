@@ -1,4 +1,5 @@
-# Introduction: PCB1 is a tenkeyless keyboard.
+# Introduction: 
+PCB1 is a tenkeyless keyboard.
 
 # Technical information:
 - Layout size: tenkeyless
